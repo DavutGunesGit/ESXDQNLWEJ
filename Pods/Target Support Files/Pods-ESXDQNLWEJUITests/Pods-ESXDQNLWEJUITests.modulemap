@@ -1,0 +1,6 @@
+framework module Pods_ESXDQNLWEJUITests {
+  umbrella header "Pods-ESXDQNLWEJUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
